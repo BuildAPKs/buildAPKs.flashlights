@@ -36,6 +36,7 @@ trap _SMATRPQUIT_ QUIT
 
 cd "$JDR"
 _AT_ ahmed9dz/flashlight 04287aa86097049612c8d5168b99f85329914d4d
+_AT_ mobilepearls/com.mobilepearls.flashlight 6ca25cc3442d08ff22dd4717d29791e23bb69b17
 _AT_ sanbeg/flashlight 04287aa86097049612c8d5168b99f85329914d4d
 
 #ma.bash OEF
