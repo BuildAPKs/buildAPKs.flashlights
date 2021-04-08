@@ -36,7 +36,9 @@ trap _SMATRPQUIT_ QUIT
 
 cd "$JDR"
 _AT_ ahmed9dz/flashlight 04287aa86097049612c8d5168b99f85329914d4d
+_AT_ federicoculloca/JASF 3e27525d2e8fca36bb10d519d255e150d122b28b
+_AT_ matthewmichihara/flashlight-android 2e05b6cf73b07d87be63776e8f0cb596cc1ca1e9
 _AT_ mobilepearls/com.mobilepearls.flashlight 6ca25cc3442d08ff22dd4717d29791e23bb69b17
 _AT_ sanbeg/flashlight 04287aa86097049612c8d5168b99f85329914d4d
-
+_AT_ swgillan/DroidLight a106f2bfe7968021b4cc2313ef6858fdb686437b
 #ma.bash OEF
